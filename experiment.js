@@ -25,7 +25,7 @@ else {
 }
 */
 const timesToRepeat = 50;
-const character = '🥰😇'
+const character = '😇'
 
 let answer = " ";
 
