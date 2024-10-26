@@ -25,9 +25,9 @@ else {
 }
 */
 const timesToRepeat = 50;
-const character = '🥰😇'
+const character = '😇😭😭😭'
 
-let answer = " ";
+let answer = "Vaishnavi is always right";
 
 for (let i = 0; i< timesToRepeat; i++) {
     answer = answer + character ;
