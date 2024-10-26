@@ -34,4 +34,5 @@ for (let i = 0; i< timesToRepeat; i++) {
 
 }
 
-console. log(answer)
+console.log(answer)
+console.log('Hello World')
